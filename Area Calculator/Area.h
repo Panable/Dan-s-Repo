@@ -56,7 +56,7 @@ void Trapezoid()
 	print << "Please enter the height: " << endprint;
 	input >> h;
 
-	print << "The area of the trapezium is" << TrapezoidFormula(b1, b2, h) << endprint;
+	print << "The area of the trapezium is " << TrapezoidFormula(b1, b2, h) << endprint;
 }
 
 void Circle()
